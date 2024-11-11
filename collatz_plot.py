@@ -17,5 +17,3 @@ def collatz_plot(num):
     # Exibe o gráfico
     plt.grid(True)  # Grade
     plt.show()
-
-collatz_plot(10)
